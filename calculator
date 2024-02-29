@@ -1,3 +1,4 @@
 cout<<"Hira Mansha";
 cout<<"23-st-028";
 cout<<"sum of two values"<<a+b;
+cout<<"Difference of two values";
